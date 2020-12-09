@@ -39,8 +39,9 @@ The admin user of the application should be able to perform the following operat
 
 ![Screenshot](screenshot/1.PNG)
 ![Screenshot](screenshot/2.PNG)
-![Screenshot](screenshot/3.PNG)
 ![Screenshot](screenshot/4.PNG)
+![Screenshot](screenshot/3.PNG)
+
 ![Screenshot](screenshot/5.PNG)
 
 ![Screenshot](screenshot/7.PNG)
