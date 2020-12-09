@@ -9,15 +9,15 @@ developed with the latest technology. You can choose programming languages such 
 The admin user of the application should be able to perform the following operations.
 
 # The operations are listed below:
-  1 Insert Products
-  2 Update Products
-  3 Delete Products which are unavailable in the store
-  4 Search specific product
+  1. Insert Products
+  2. Update Products
+  3. Delete Products which are unavailable in the store
+  4. Search specific product
 # Further he/she should be able to
- 1 Register new employees
- 2 Modify existing employee details
- 3 Delete existing employees
- 4 View employee details
+ 1. Register new employees
+ 2. Modify existing employee details
+ 3. Delete existing employees
+ 4. View employee details
   
   # Requiremnt to run Web Based Application
 1. Visual Studio : To edit source code  
