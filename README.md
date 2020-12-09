@@ -27,7 +27,11 @@ The admin user of the application should be able to perform the following operat
 1. Clone Project (KandK_Mart-College_Project)
 2. if your are looking for this project you should know how to configure others project.  dont be too lazy kid. Spend some time in study. 
 
-# Here is the Screenshot 
+# Here is the Screenshot (CODE / Design)
+
+![Screenshot](screenshot/loginCode.PNG)
+
+![Screenshot](screenshot/settingCode.PNG)
 
 ![Screenshot](screenshot/1.PNG)
 ![Screenshot](screenshot/2.PNG)
@@ -36,6 +40,5 @@ The admin user of the application should be able to perform the following operat
 ![Screenshot](screenshot/5.PNG)
 ![Screenshot](screenshot/6.PNG)
 ![Screenshot](screenshot/7.PNG)
-![Screenshot](screenshot/login code.PNG)
-![Screenshot](screenshot/setting code.PNG)
+
 
