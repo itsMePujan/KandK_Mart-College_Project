@@ -25,7 +25,9 @@ The admin user of the application should be able to perform the following operat
 
 # Setup application
 1. Clone Project (KandK_Mart-College_Project)
-2. if your are looking for this project you should know how to configure others project.  dont be too lazy kid. Spend some time in study. 
+2. if your are looking for this project you should know how to configure others project.  dont be too lazy kid. Spend some time in study.
+3. Change connection string in each so you can connect to database.  
+              ![Screenshot](screenshot/Capture.PNG)
 
 # Here is the Screenshot (CODE / Design)
 
