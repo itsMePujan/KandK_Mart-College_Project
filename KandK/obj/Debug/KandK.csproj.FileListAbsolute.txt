@@ -1,0 +1,105 @@
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\bin\Debug\KandK.exe.config
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\bin\Debug\KandK.exe.manifest
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\bin\Debug\KandK.application
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\bin\Debug\KandK.exe
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\bin\Debug\KandK.pdb
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.Administrator_Dasboard.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.backup.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.employee.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.home.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.product.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.setting.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.admin.supplier.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.Customer.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.emp.billing.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.emp.Employee_dash.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.emp.setting.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.Properties.Resources.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.report.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.Start.resources
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.csproj.GenerateResource.Cache
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.exe.manifest
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.application
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.exe
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.pdb
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.csprojResolveAssemblyReference.cache
+C:\Users\pujan\documents\visual studio 2015\Projects\KandK\KandK\obj\Debug\KandK.splash_screen.resources
+D:\KandK\KandK\bin\Debug\KandK.exe.config
+D:\KandK\KandK\obj\Debug\KandK.exe
+D:\KandK\KandK\obj\Debug\KandK.pdb
+D:\KandK\KandK\bin\Debug\KandK.exe.manifest
+D:\KandK\KandK\bin\Debug\KandK.application
+D:\KandK\KandK\bin\Debug\KandK.exe
+D:\KandK\KandK\bin\Debug\KandK.pdb
+D:\KandK\KandK\obj\Debug\KandK.csprojResolveAssemblyReference.cache
+D:\KandK\KandK\obj\Debug\KandK.admin.Administrator_Dasboard.resources
+D:\KandK\KandK\obj\Debug\KandK.admin.backup.resources
+D:\KandK\KandK\obj\Debug\KandK.admin.employee.resources
+D:\KandK\KandK\obj\Debug\KandK.admin.home.resources
+D:\KandK\KandK\obj\Debug\KandK.admin.product.resources
+D:\KandK\KandK\obj\Debug\KandK.admin.setting.resources
+D:\KandK\KandK\obj\Debug\KandK.admin.supplier.resources
+D:\KandK\KandK\obj\Debug\KandK.Customer.resources
+D:\KandK\KandK\obj\Debug\KandK.emp.billing.resources
+D:\KandK\KandK\obj\Debug\KandK.emp.Employee_dash.resources
+D:\KandK\KandK\obj\Debug\KandK.emp.setting.resources
+D:\KandK\KandK\obj\Debug\KandK.Properties.Resources.resources
+D:\KandK\KandK\obj\Debug\KandK.report.resources
+D:\KandK\KandK\obj\Debug\KandK.splash_screen.resources
+D:\KandK\KandK\obj\Debug\KandK.Start.resources
+D:\KandK\KandK\obj\Debug\KandK.csproj.GenerateResource.Cache
+D:\KandK\KandK\obj\Debug\KandK.exe.manifest
+D:\KandK\KandK\obj\Debug\KandK.application
+E:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.exe.config
+E:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.exe.manifest
+E:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.application
+E:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.exe
+E:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.pdb
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.csprojAssemblyReference.cache
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.Administrator_Dasboard.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.backup.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.employee.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.home.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.product.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.setting.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.supplier.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.Customer.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.emp.billing.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.emp.Employee_dash.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.emp.setting.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.Properties.Resources.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.report.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.splash_screen.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.Start.resources
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.csproj.GenerateResource.cache
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.exe.manifest
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.application
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.exe
+E:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.pdb
+D:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.exe.config
+D:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.exe.manifest
+D:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.application
+D:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.exe
+D:\College\first sem\college-assignments-First sem\KandK\KandK\bin\Debug\KandK.pdb
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.csprojAssemblyReference.cache
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.Administrator_Dasboard.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.backup.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.employee.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.home.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.product.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.setting.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.admin.supplier.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.Customer.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.emp.billing.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.emp.Employee_dash.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.emp.setting.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.Properties.Resources.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.report.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.splash_screen.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.Start.resources
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.csproj.GenerateResource.cache
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.csproj.CoreCompileInputs.cache
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.exe.manifest
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.application
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.exe
+D:\College\first sem\college-assignments-First sem\KandK\KandK\obj\Debug\KandK.pdb
