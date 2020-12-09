@@ -31,7 +31,7 @@ The admin user of the application should be able to perform the following operat
 
 ![Screenshot](screenshot/loginCode.PNG)
 
-![Screenshot](screenshot/settingCode.PNG.PNG)
+![Screenshot](screenshot/settingCode.PNG)
 
 ![Screenshot](screenshot/1.PNG)
 ![Screenshot](screenshot/2.PNG)
