@@ -1,6 +1,5 @@
 # KandK_Mart-College_Project
-  It just a random project to pass out semester.
-  
+ 
 K & K Mart is one of the leading departmental stores in the country. The department has various branches spread across the nation. The store offers variety of goods which include daily basic commodities such as fresh vegetables, meat, luxurious products such as perfumes, furniture to name a few. It attracts many customers each day. The management of the departmental store has a separate department to look into the goods that are to be sold to the customers. Furthermore, the management
 intends to keep track of the employees recruited in the store.
 
